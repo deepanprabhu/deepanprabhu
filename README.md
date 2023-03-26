@@ -1,6 +1,7 @@
-### Deepan Prabhu Babu - I am a backend engineer and I cherish programming, mathematics, spirituality, distributed systems, painting and art ! 👋
+### Hi I am Deepan Prabhu Babu 👋
+####  I cherish programming, mathematics, spirituality, distributed systems, painting and art ! 
 
-Linkedin:
+#### Linkedin:
 - https://www.linkedin.com/in/deepanprabhu/
 
 <!--
