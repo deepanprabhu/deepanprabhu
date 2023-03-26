@@ -1,4 +1,7 @@
-### Hi there 👋
+### Deepan Prabhu Babu - I am a backend engineer and I cherish programming, mathematics, spirituality, distributed systems, painting and art ! 👋
+
+Linkedin:
+- https://www.linkedin.com/in/deepanprabhu/
 
 <!--
 **deepanprabhu/deepanprabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
