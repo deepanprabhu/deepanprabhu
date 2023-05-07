@@ -1,5 +1,9 @@
-### Hi I am Deepan Prabhu Babu 👋
-####  I cherish programming, mathematics, spirituality, distributed systems, painting and art ! 
+### Hi - I am Deepan Prabhu Babu 👋
+#### I cherish programming, mathematics, spirituality, distributed systems, painting and art ! 
+
+- Fluent in Java as of now, getting into python again for the llms
+- I have 12 years of professional experience working for companies like Amazon, Msft, Expedia, Brex, Zoom ...
+- My favourite engineer/programmer is **Fabrice bellard** - https://bellard.org
 
 #### Linkedin:
 - https://www.linkedin.com/in/deepanprabhu/
