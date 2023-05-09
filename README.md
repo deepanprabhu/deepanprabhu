@@ -3,7 +3,10 @@
 
 - Fluent in Java as of now, getting into python again for the llms
 - I have 12 years of professional experience working for companies like Amazon, Msft, Expedia, Brex, Zoom ...
-- My favourite engineer/programmer is **Fabrice bellard** - https://bellard.org
+- My favourite coder/engineer/programmer is **Fabrice bellard** - https://bellard.org
+- If you are in the Bay Area and would like to meet/talk about interesting projects, experiences, ideas or so..
+  - I can spare 1 hour on a friday evening
+  - Cofee is on you !
 
 #### Linkedin:
 - https://www.linkedin.com/in/deepanprabhu/
